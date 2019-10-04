@@ -1,23 +1,32 @@
 .logo{
 	margin-left: 40%;
-	margin-top:10%;
+	margin-top:17%;
 }
 
 i{
-  margin-right: 60px;
+  margin-right: 30px;
 }
 
 .buttons{
-	margin-left: 25%;
+	margin-left: 28%;
 	margin-top: 50px;
+
 
 }
 
+.topbar{
+  background: white;
+  float:right;
+  color: grey
+  display:block;
+  width: 100%;
+}
 
 
 
 .fab{
   color:grey;
+
 }
 
 .fas{
